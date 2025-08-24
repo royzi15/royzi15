@@ -1,6 +1,14 @@
-## Hi there 👋
+# Halo semua! 
 
-<!--
+Perkenalkan nama saya **Roy Aldonit Zidomi**.<br>
+
+Saya seorang **Web Developer** di [Dicoding](https://www.dicoding.com/).<br>
+
+Saya bertanggung jawab pada kualitas web dengan dibekali [sertifikasi dari Dicoding](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/Roy Aldonit Zidomi/)ku ya.
+
+<!--## Hi there 👋
 **royzi15/royzi15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
