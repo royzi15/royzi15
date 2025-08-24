@@ -4,7 +4,7 @@ Perkenalkan nama saya **Roy Aldonit Zidomi**.<br>
 
 Saya seorang **Web Developer** di [Dicoding](https://www.dicoding.com/).<br>
 
-Saya bertanggung jawab pada kualitas web dengan dibekali [sertifikasi dari Dicoding](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
+Saya bertanggung jawab pada kualitas web dengan dibekali [sertifikasi dari Dicoding]([https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M](http://dicoding.com/certificates/GRX537I0YZOM)).<br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/Roy Aldonit Zidomi/)ku ya.
 
